@@ -1,1 +1,1 @@
-# Networking-ChatApp
+# Networking & C: Terminal ChatApp
